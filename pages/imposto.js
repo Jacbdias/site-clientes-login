@@ -1,10 +1,10 @@
 export default function Imposto() {
   const ativos = [
     { ativo: 'PETR4', setor: 'Petróleo', peso: '18%', logo: 'petr4.png' },
-    { ativo: 'TAEE11', setor: 'Energia', peso: '15%', logo: 'taee11.png' },
-    { ativo: 'BBAS3', setor: 'Financeiro', peso: '12%', logo: 'bbas3.png' },
-    { ativo: 'ITSA4', setor: 'Financeiro', peso: '10%', logo: 'itsa4.png' },
-    { ativo: 'EGIE3', setor: 'Energia', peso: '8%', logo: 'egie3.png' }
+    { ativo: 'ITUB4', setor: 'Energia', peso: '15%', logo: 'taee11.png' },
+    { ativo: 'BBSA3', setor: 'Financeiro', peso: '12%', logo: 'bbas3.png' },
+    { ativo: 'VALE3', setor: 'Financeiro', peso: '10%', logo: 'itsa4.png' },
+    { ativo: 'WEGE3', setor: 'Energia', peso: '8%', logo: 'egie3.png' }
   ];
 
   return (
