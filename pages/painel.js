@@ -12,13 +12,13 @@ export default function Painel() {
       titulo: 'Imposto de Renda',
       descricao: 'Tudo sobre declaração de ativos na bolsa',
       imagem: '/27.png',
-      link: '/imposto', // agora leva para uma página interna
+      link: '/imposto', // página interna
     },
     {
       titulo: 'Milhas Aéreas',
       descricao: 'Como lucrar com milhas e pontos',
       imagem: '/28.png',
-      link: 'https://fatosdabolsa.com.br/milhas',
+      link: '/milhas', // 🔄 alterado para página interna
     },
   ];
 
